@@ -5,13 +5,12 @@
 <!-- PROFILE PHOTO: upload photo.png to assets/ folder in your repo -->
 <!-- <img src="./assets/photo.png" width="120" style="border-radius: 50%;" /> -->
 
-# hi, i'm nicha 🌸
+# hi! i'm nicha 🌸🐰
 
-*cs @ nus · ml enthusiast · fintech builder · singapore*
+*cs @ nus · singapore*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fce4ec?style=flat&logo=linkedin&logoColor=c2185b)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-fce4ec?style=flat&logo=gmail&logoColor=c2185b)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fce4ec?style=flat&logo=sparkles&logoColor=c2185b)](https://YOUR_SITE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fce4ec?style=flat&logo=linkedin&logoColor=c2185b)](https://linkedin.com/in/nichaingsee)
+[![Gmail](https://img.shields.io/badge/Email-fce4ec?style=flat&logo=gmail&logoColor=c2185b)](mailto:nichasgarden@gmail.com)
 
 </div>
 
@@ -21,12 +20,9 @@
 
 ```python
 nicha = {
-    "school":     "NUS Computer Science (Year 2, Merit Scholar)",
+    "school":     "NUS Computer Science",
     "interning":  "Dobin — ML pipelines & transaction enrichment",
-    "exchange":   "Uppsala University, Sweden (Autumn 2026)",
-    "building":   "Cipher — behavioural finance ML app for SG users",
-    "hobbies":    ["muay thai 🥊", "piano 🎹", "tutoring kids 📚"],
-    "fun_fact":   "working toward ARSM music performance diploma",
+    "hobbies":    ["fun projects", "crochet", "shopping", "travelling"],
 }
 ```
 
@@ -37,16 +33,16 @@ nicha = {
 **languages**
 
 ![Python](https://img.shields.io/badge/Python-fdf0f5?style=flat&logo=python&logoColor=99355a)
-![TypeScript](https://img.shields.io/badge/TypeScript-fdf0f5?style=flat&logo=typescript&logoColor=99355a)
+![Javascript](https://img.shields.io/badge/TypeScript-fdf0f5?style=flat&logo=typescript&logoColor=99355a)
 ![Java](https://img.shields.io/badge/Java-fdf0f5?style=flat&logo=openjdk&logoColor=99355a)
-![C](https://img.shields.io/badge/C-fdf0f5?style=flat&logo=c&logoColor=99355a)
+![HTML/CSS](https://img.shields.io/badge/C-fdf0f5?style=flat&logo=c&logoColor=99355a)
 ![SQL](https://img.shields.io/badge/SQL-fdf0f5?style=flat&logo=postgresql&logoColor=99355a)
 
 **ml / ai**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-f0fdf4?style=flat&logo=pytorch&logoColor=166534)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-f0fdf4?style=flat&logo=scikitlearn&logoColor=166534)
-![sentence-transformers](https://img.shields.io/badge/sentence--transformers-f0fdf4?style=flat&logo=huggingface&logoColor=166534)
+![spaCy](https://img.shields.io/badge/sentence--transformers-f0fdf4?style=flat&logo=huggingface&logoColor=166534)
 ![FAISS](https://img.shields.io/badge/FAISS-f0fdf4?style=flat&logo=meta&logoColor=166534)
 
 **web & infra**
@@ -63,9 +59,6 @@ nicha = {
 | project | description | stack |
 |--------|-------------|-------|
 | [**Cipher**](https://github.com/mellowfarm/Cipher) | behavioural finance ML app — transaction categorisation with sentence transformers + user feedback loops | FastAPI · React · PostgreSQL · sentence-transformers |
-| **MINDConnect** | web app for MINDS Singapore, built at Google Hack for Good 2026 | React · Firebase |
-| **ConnectEd** | desktop tutor-student matching app | Java · JavaFX |
-| **Grid Adventure** | A* search + CNN tile classifier, ~0.966 test score | Python · PyTorch |
 
 ---
 
@@ -84,22 +77,12 @@ nicha = {
 <!-- OPTIONAL: streak stats — also very cute -->
 <!-- <img src="https://streak-stats.demolab.com?user=mellowfarm&theme=rose_pine&hide_border=true&background=fff0f5&ring=c2185b&fire=f06292&currStreakLabel=c2185b" /> -->
 
----
-
-## ✨ a little more me
-
-🎵 &nbsp;working toward ARSM music performance diploma  
-📈 &nbsp;etf investor (VWRA gang 🌍)  
-🌱 &nbsp;volunteer tutor with Project CUP & New Life Stories  
-🥊 &nbsp;muay thai recreationally  
-🌸 &nbsp;living at Acacia College (NUS AI-focused RC)  
-🇸🇪 &nbsp;heading to Uppsala, Sweden in Autumn 2026!
 
 ---
 
 <div align="center">
 
-*always building something · open to ml/ai internships nov 2026* 🌷
+*always building something!* 🌷
 
 <!-- OPTIONAL: a cute footer image or gif -->
 <!-- <img src="./assets/footer.gif" width="100%" /> -->
