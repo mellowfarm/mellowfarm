@@ -1,4 +1,4 @@
-<img src="./IMG_8222.JPG" alt="banner" width="100%" />
+<img src="./IMG_8222.JPG" alt="banner" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
 
 <div align="center">
 
