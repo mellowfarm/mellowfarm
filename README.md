@@ -33,24 +33,21 @@ nicha = {
 **languages**
 
 ![Python](https://img.shields.io/badge/Python-fdf0f5?style=flat&logo=python&logoColor=99355a)
-![Javascript](https://img.shields.io/badge/TypeScript-fdf0f5?style=flat&logo=typescript&logoColor=99355a)
+![JavaScript](https://img.shields.io/badge/JavaScript-fdf0f5?style=flat&logo=javascript&logoColor=99355a)
 ![Java](https://img.shields.io/badge/Java-fdf0f5?style=flat&logo=openjdk&logoColor=99355a)
-![HTML/CSS](https://img.shields.io/badge/C-fdf0f5?style=flat&logo=c&logoColor=99355a)
 ![SQL](https://img.shields.io/badge/SQL-fdf0f5?style=flat&logo=postgresql&logoColor=99355a)
 
 **ml / ai**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-f0fdf4?style=flat&logo=pytorch&logoColor=166534)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-f0fdf4?style=flat&logo=scikitlearn&logoColor=166534)
-![spaCy](https://img.shields.io/badge/sentence--transformers-f0fdf4?style=flat&logo=huggingface&logoColor=166534)
-![FAISS](https://img.shields.io/badge/FAISS-f0fdf4?style=flat&logo=meta&logoColor=166534)
+![spaCy](https://img.shields.io/badge/spaCy-f0fdf4?style=flat&logo=spacy&logoColor=166534)
 
 **web & infra**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-eff6ff?style=flat&logo=fastapi&logoColor=1d4ed8)
 ![React](https://img.shields.io/badge/React-eff6ff?style=flat&logo=react&logoColor=1d4ed8)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eff6ff?style=flat&logo=postgresql&logoColor=1d4ed8)
-![Docker](https://img.shields.io/badge/Docker-eff6ff?style=flat&logo=docker&logoColor=1d4ed8)
 
 ---
 
