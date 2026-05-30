@@ -66,27 +66,9 @@ nicha = {
 | [**song-gpt**](https://github.com/mellowfarm/song-gpt) | nano-gpt implementation | PyTorch · Attention · Transformers | ✅ completed |
 ---
 
-## 📊 github stats
-
-<!-- STATS CARDS: replace 'mellowfarm' with your github username if different -->
-<!-- pick a theme: rose_pine, tokyonight, catppuccin_latte, dracula, etc. -->
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mellowfarm&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=c2185b&icon_color=f06292&text_color=880e4f" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellowfarm&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=c2185b&text_color=880e4f" height="165" />
-
-</div>
-
-<!-- OPTIONAL: streak stats — also very cute -->
-<!-- <img src="https://streak-stats.demolab.com?user=mellowfarm&theme=rose_pine&hide_border=true&background=fff0f5&ring=c2185b&fire=f06292&currStreakLabel=c2185b" /> -->
-
-
----
-
-<div align="center">
-
-*always building something!* 🌷
+*⌘tinkering...*
 
 <!-- OPTIONAL: a cute footer image or gif -->
 <!-- <img src="./assets/footer.gif" width="100%" /> -->
