@@ -51,12 +51,18 @@ nicha = {
 
 ---
 
-## 🌸 projects
+## ✨ projects
 
 | project | description | stack |
 |--------|-------------|-------|
 | [**Cipher**](https://github.com/mellowfarm/Cipher) | behavioural finance ML app — transaction categorisation with sentence transformers + user feedback loops | FastAPI · React · PostgreSQL · sentence-transformers |
 
+---
+## 🍐 learning
+
+| project | description | stack |
+|--------|-------------|-------|
+| [**song-gpt**](https://github.com/mellowfarm/song-gpt) | nano-gpt implementation | Pytorch · Attention · Transformers |
 ---
 
 ## 📊 github stats
