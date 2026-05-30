@@ -7,7 +7,7 @@
 
 # hi! i'm nicha 🌸🐰
 
-*cs @ nus · singapore*
+*cs @ nus ⌘ singapore*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fce4ec?style=flat&logo=linkedin&logoColor=c2185b)](https://linkedin.com/in/nichaingsee)
 [![Gmail](https://img.shields.io/badge/Email-fce4ec?style=flat&logo=gmail&logoColor=c2185b)](mailto:nichasgarden@gmail.com)
